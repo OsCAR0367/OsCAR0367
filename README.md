@@ -1,7 +1,7 @@
 # <div align="center">🚀 Oscar Diego Mamani Ayala | Desarrollador de Software</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Especialista+en+Flutter;Backend+con+Node.js;Entusiasta+de+Data+Science" alt="Presentación animada de Oscar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Developer+con+Flutter;Backend+con+Node.js;Entusiasta+de+Data+Science" alt="Presentación animada de Oscar" />
 </div>
 
 <br/>
@@ -65,6 +65,7 @@ Hola 👋 Soy **Oscar Diego**, desarrollador de software y estudiante de 6° cic
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -72,6 +73,7 @@ Hola 👋 Soy **Oscar Diego**, desarrollador de software y estudiante de 6° cic
 ### 📚 Frameworks y Librerías
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -85,6 +87,8 @@ Hola 👋 Soy **Oscar Diego**, desarrollador de software y estudiante de 6° cic
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" />
 </p>
 
 ### 🔧 Herramientas y Plataformas
@@ -93,7 +97,10 @@ Hola 👋 Soy **Oscar Diego**, desarrollador de software y estudiante de 6° cic
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Bizagi-1E88E5?style=for-the-badge&logoColor=white" alt="Bizagi" />
 </p>
@@ -104,6 +111,7 @@ Hola 👋 Soy **Oscar Diego**, desarrollador de software y estudiante de 6° cic
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Cascada-FF6B6B?style=for-the-badge&logoColor=white" alt="Cascada" />
   <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-000000?style=for-the-badge&logoColor=white" alt="Lean Six Sigma" />
 </div>
 </div>
@@ -114,7 +122,14 @@ Hola 👋 Soy **Oscar Diego**, desarrollador de software y estudiante de 6° cic
 
 <div align="center">
 
+<!-- Racha de commits -->
+<img src="https://streak-stats.demolab.com/?user=OsCAR0367&theme=default&hide_border=false" alt="GitHub Streak" />
+
+<br/><br/>
+
 <!-- Lenguajes más usados -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsCAR0367&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+<br/><br/>
 
 </div>
